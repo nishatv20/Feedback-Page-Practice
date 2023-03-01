@@ -1,0 +1,84 @@
+#nav {
+    background-color:rgb(153, 200, 218) ;
+    display: inline;
+    margin-left: 30px;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid darkslategrey;
+    margin-top: 150px;
+    align-items: center;
+    
+}
+a {
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-decoration: none;
+    
+}
+ 
+
+.App{
+    background-color:rgb(184, 242, 242);
+    
+    
+
+}
+#para{
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(10, 18, 18);
+}
+span {
+padding: 30px;
+margin-top: 150px;
+font-size: medium;
+font-weight: bold;
+font-style: normal;
+text-decoration: none;
+color: black;
+}
+
+.field {
+    border: 2px solid;
+    
+}
+
+#review {
+    align-items: center;
+    border: 2px solid;
+    margin-top: 100px;
+    margin-left:200px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+background-color:rgb(153, 200, 218);
+color: black;
+text-align: center;
+cursor: pointer;
+font-size: 16px;
+padding: 15px 32px;
+display:inline;
+margin-left: 60px;
+border: 2px solid;
+border-radius: 10px;
+font-weight: bold;
+font-family:'Courier New', Courier, monospace;
+font-size: large;
+}
+#demoo {
+    margin-top: 50px;
+    background-color: rgb(153, 200, 218);
+    border: 1px dotted;
+}
+#demo {
+    margin-top: 30px;
+    background-color: rgb(153, 200, 218);
+    border: 1px dotted
+}
